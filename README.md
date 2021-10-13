@@ -26,13 +26,14 @@ I ran statistical studies on the temperature between June and December to get a 
 -  The temperature figures for both months were closely clustered data, with standard deviations of 3.26 degrees in June and 3.75 degrees in December.
 
 ### June Temperatures
+![June_temps](https://user-images.githubusercontent.com/83256206/137044528-c86189e3-de1f-4001-bb8b-b8063292fe6e.png)
 
--------------------------june_temps image comes here-------------------------------
+
 
 
 ### December Temperatures
 
------------------------dec_temps image comes here-----------------------------------
+![dec_temps](https://user-images.githubusercontent.com/83256206/137044659-84180716-50c6-4b4f-81d1-7bc1f5822074.png)
 
 ## Summary
 
